@@ -1,6 +1,6 @@
 ## Predicting Tour de France Participation
 ### Leveraging Data Mining and Public Sources for Strategic Cycling Team Insights
-_Jakob Hutter_ - _Central European University, Vienna, Austria_ - _3rd December 2023_ - _Project for Introduction to Machine Learning_ - _Professor Petra Kralj Novak_
+_Jakob Hutter_ - _Central European University, Vienna, Austria_ - _3rd December 2023_ - _Project for Course Machine Learning I_ - _[Professor Petra Kralj Novak](https://scholar.google.com/citations?user=P5_RcIQAAAAJ)_
   
 ### Abstract
 
