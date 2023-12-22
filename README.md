@@ -4,7 +4,7 @@ _Jakob Hutter_ - _Central European University, Vienna, Austria_ - _3rd December 
   
 ### Abstract
 
-Cycling teams employ data mining techniques to refine their strategies. This project investigated whether publicly available data from [procyclingstats](https://procyclingstats.com) can be used to predict the cyclists who will participate in the upcoming Tour de France. An accurate prediction tool could allow teams to foresee the line-ups of competitors, providing a strategic edge.
+This project investigated whether publicly available data from [procyclingstats](https://procyclingstats.com) can be used to predict the cyclists who will participate in the upcoming Tour de France. An accurate prediction tool could allow teams to foresee the line-ups of competitors, providing a strategic edge.
 
 Data was collected from world tour teams (2010-2023) through web scraping, focusing on the 2023 season for model testing. Variables considered included team, age for the season, height, weight, PCS points up to the Tour de France (TdF), UCI points up to TdF, race days until TdF, Giro participation, last season's PCS points, and last season's UCI points. The analysis revealed that pre-season PCS points, a metric indicating strong climbing abilities, were the most significant predictor of TdF participation. Data from January to June of the current season, though important, were less predictive.
 
