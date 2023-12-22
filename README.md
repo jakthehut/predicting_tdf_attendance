@@ -1,4 +1,5 @@
-## Predictin Who will attend the Tour de France next year
+## Predicting Tour de France Participation
+### Leveraging Data Mining and Public Sources for Strategic Cycling Team Insights
 _Jakob Hutter_ - _Central European University, Vienna, Austria_ - _3rd December 2023_ - _Project for Introduction to Machine Learning_ - _Professor Petra Kralj Novak_
   
 ### Abstract
